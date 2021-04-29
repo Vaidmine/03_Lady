@@ -7,8 +7,6 @@
 
 
 This project is for educational porpuses only. 
-Pull request are welcome! 
-Thank you for your cooperation!
 
 Site published at https://github.com/Vaidmine/06_sign-up/
 
