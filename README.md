@@ -11,5 +11,5 @@ This project is for educational porpuses only.
 Site published at https://github.com/Vaidmine/06_sign-up/
 
 
-## Authors
+### Authors
 [Vaidmine](https://github.com/vaidmine)
