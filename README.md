@@ -4,7 +4,7 @@
 
 # Lady
 ### 404 page
-Site is published at https://vaidmine.github.io/03_Lady/
+
 
 This project is for educational porpuses only. 
 Pull request are welcome! 
