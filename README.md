@@ -8,7 +8,7 @@
 
 This project is for educational porpuses only. 
 
-Site published at https://github.com/Vaidmine/06_sign-up/
+Site published at https://vaidmine.github.io/03_Lady/
 
 
 ### Authors
